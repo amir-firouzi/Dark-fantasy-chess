@@ -1,0 +1,29 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local game settings and logs
+settings.json
+settings.json.tmp
+*.log
+
+# Build artifacts (not part of source repository)
+build/
+dist/
+*.spec
+*.exe
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
