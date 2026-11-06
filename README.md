@@ -1,4 +1,4 @@
-# ♟️ Dark Fantasy Chess
+# ♟️ Dark Fantasy Chess v1.0.1
 
 A 2D chess game built with **Python** and **Pygame**, featuring a dark fantasy atmosphere, custom chess pieces, multiple board themes, AI opponents, animations, and sound effects.
 
